@@ -192,9 +192,11 @@ get.github.context <- function()
     return(list(url = result, config = c()))
   } else {
     # we don't have sign: this came from the non-interactive flow.
-    query$access_token <- ctx$token
+    # old-style: was just a query parameter - now deprecated
+    # in favor of Authorization: token XXX header
+    # query$access_token <- ctx$token
     result <- modify_url(ctx$api_url, path = path, query = query)
-    return(list(url = result, config = c()))
+    return(list(url = result, config = c(add_headers(Authorization=paste("token", ctx$token)))))
   }
 }
 
