@@ -1,9 +1,9 @@
 Package: github
 Type: Package
 Title: github API
-Version: 0.9.9
+Version: 0.9.10
 Author: Carlos Scheidegger <cscheid@research.att.com>
-Maintainer: Carlos Scheidegger <cscheid@research.att.com>
+Maintainer: Simon Urbanek <urbanek@R-project.org>
 Description: Provides access to the Github v3 API
 License: MIT + file LICENSE
 Imports:
