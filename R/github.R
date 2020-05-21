@@ -111,7 +111,7 @@ interactive.login <- function(client_id = NULL,
 #'   issued by this library.
 create.github.context <- function(api_url = "https://api.github.com", client_id = NULL,
                                   client_secret = NULL, access_token = NULL, personal_token = NULL,
-                                  max_etags = 10000, verbose = FALSE)
+                                  max_etags = 10000, verbose = FALSE, use_basic_auth = FALSE)
 {
   if (is.null(personal_token) && (Sys.getenv("GITHUB_PAT") != "")) {
     personal_token <- Sys.getenv("GITHUB_PAT")
@@ -124,7 +124,8 @@ create.github.context <- function(api_url = "https://api.github.com", client_id 
               max_etags      = max_etags,
               etags          = new.env(parent = emptyenv()),
               authenticated  = !is.null(access_token),
-              verbose        = verbose)
+              verbose        = verbose,
+              use_basic_auth = use_basic_auth)
   if (!is.null(access_token) || !is.null(personal_token)) {
     r <- get.myself(ctx)
     if (!r$ok) {
@@ -194,9 +195,14 @@ get.github.context <- function()
     # we don't have sign: this came from the non-interactive flow.
     # old-style: was just a query parameter - now deprecated
     # in favor of Authorization: token XXX header
-    # query$access_token <- ctx$token
+    config <- c()
+    if(!ctx$use_basic_auth) {
+      query$access_token <- ctx$token
+    } else {
+      config <- c(add_headers(Authorization=paste("token", ctx$token)))
+    }
     result <- modify_url(ctx$api_url, path = path, query = query)
-    return(list(url = result, config = c(add_headers(Authorization=paste("token", ctx$token)))))
+    return(list(url = result, config = config))
   }
 }
 
