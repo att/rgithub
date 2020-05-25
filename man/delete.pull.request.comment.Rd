@@ -4,8 +4,12 @@
 \alias{delete.pull.request.comment}
 \title{Delete a comment on a pull request}
 \usage{
-delete.pull.request.comment(owner, repo, comment.id,
-  ctx = get.github.context())
+delete.pull.request.comment(
+  owner,
+  repo,
+  comment.id,
+  ctx = get.github.context()
+)
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -22,4 +26,3 @@ the comment
 \description{
 Delete a comment on a pull request
 }
-

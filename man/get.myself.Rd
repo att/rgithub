@@ -15,4 +15,3 @@ Information about the user
 \description{
 Get information on the current user
 }
-

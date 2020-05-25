@@ -4,8 +4,13 @@
 \alias{replace.issue.labels}
 \title{Replace all issue labels}
 \usage{
-replace.issue.labels(owner, repo, issue.number, content,
-  ctx = get.github.context())
+replace.issue.labels(
+  owner,
+  repo,
+  issue.number,
+  content,
+  ctx = get.github.context()
+)
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -24,4 +29,3 @@ The new list of labels
 \description{
 Replace all issue labels
 }
-

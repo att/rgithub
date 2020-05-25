@@ -21,4 +21,3 @@ the list of repository events
 \description{
 list events for a given repo
 }
-

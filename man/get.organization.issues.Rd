@@ -19,4 +19,3 @@ the list of issues
 \description{
 List all issues across an organization of the authenticated user:
 }
-

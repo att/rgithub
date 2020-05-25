@@ -21,4 +21,3 @@ None
 \description{
 delete a label from a repository
 }
-

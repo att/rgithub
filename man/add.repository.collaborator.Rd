@@ -21,4 +21,3 @@ none
 \description{
 add a user to the list of collaborators of a repo
 }
-

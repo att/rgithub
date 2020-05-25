@@ -17,4 +17,3 @@ the list of comments
 \description{
 Get comments for a gist
 }
-

@@ -19,4 +19,3 @@ the list of events for the network of repositories
 \description{
 list public events for an organization
 }
-

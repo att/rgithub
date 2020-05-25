@@ -24,4 +24,3 @@ the list of pull request commits
 \description{
 list commits for a pull request
 }
-

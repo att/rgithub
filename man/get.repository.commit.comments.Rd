@@ -21,4 +21,3 @@ the comments
 \description{
 get all commit comments for a given commit in a repository
 }
-

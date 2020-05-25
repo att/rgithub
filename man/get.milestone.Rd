@@ -21,4 +21,3 @@ the milestone list
 \description{
 Get specific milestone from a repository
 }
-

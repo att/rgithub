@@ -23,4 +23,3 @@ Search the Github API.
 search.issues("windows label:bug language:python state:open", sort="created", order="asc")
 }
 }
-

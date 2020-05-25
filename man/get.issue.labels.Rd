@@ -21,4 +21,3 @@ The list of labels
 \description{
 List all labels for an issue
 }
-

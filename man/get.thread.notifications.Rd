@@ -17,4 +17,3 @@ the thread
 \description{
 get single thread notifications
 }
-

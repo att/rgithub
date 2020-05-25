@@ -15,4 +15,3 @@ the list of followers
 \description{
 Get the list of followers for the current user
 }
-

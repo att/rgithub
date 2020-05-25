@@ -17,4 +17,3 @@ the new gist
 \description{
 create a new gist
 }
-

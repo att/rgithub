@@ -17,4 +17,3 @@ list of repositories
 \description{
 Get list of repositories of current user
 }
-

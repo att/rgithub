@@ -4,8 +4,7 @@
 \alias{modify.repository.label}
 \title{edit a specific label for a repository}
 \usage{
-modify.repository.label(owner, repo, name, content,
-  ctx = get.github.context())
+modify.repository.label(owner, repo, name, content, ctx = get.github.context())
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -24,4 +23,3 @@ The given label
 \description{
 edit a specific label for a repository
 }
-

@@ -17,4 +17,3 @@ none
 \description{
 deletes subscription info from thread.
 }
-

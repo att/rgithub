@@ -23,4 +23,3 @@ the file
 \description{
 Delete a file in a repository
 }
-

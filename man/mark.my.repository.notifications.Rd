@@ -21,4 +21,3 @@ none
 \description{
 mark my notifications as read for a given repo
 }
-

@@ -17,4 +17,3 @@ the list of gists
 \description{
 list the gists of a given user
 }
-

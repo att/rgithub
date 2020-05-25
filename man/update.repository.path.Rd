@@ -4,8 +4,7 @@
 \alias{update.repository.path}
 \title{Update the contents of a file}
 \usage{
-\method{update}{repository.path}(owner, repo, path, ...,
-  ctx = get.github.context())
+\method{update}{repository.path}(owner, repo, path, ..., ctx = get.github.context())
 }
 \arguments{
 \item{owner}{the repo owner (user, org, etc)}
@@ -24,4 +23,3 @@ the file
 \description{
 Update the contents of a file
 }
-

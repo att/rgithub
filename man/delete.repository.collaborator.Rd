@@ -21,4 +21,3 @@ none
 \description{
 delete a user from the list of collaborators of a repo
 }
-

@@ -4,8 +4,13 @@
 \alias{modify.pull.request.comment}
 \title{Modify a comment on a pull request}
 \usage{
-modify.pull.request.comment(owner, repo, pull.id, content,
-  ctx = get.github.context())
+modify.pull.request.comment(
+  owner,
+  repo,
+  pull.id,
+  content,
+  ctx = get.github.context()
+)
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -24,4 +29,3 @@ the comment
 \description{
 Modify a comment on a pull request
 }
-

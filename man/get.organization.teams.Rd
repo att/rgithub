@@ -17,4 +17,3 @@ the list of organization teams
 \description{
 list teams from an organization
 }
-

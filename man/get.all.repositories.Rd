@@ -17,4 +17,3 @@ list of repositories
 \description{
 get list of all repositories
 }
-

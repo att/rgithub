@@ -21,4 +21,3 @@ the comment
 \description{
 Get specific comment for a pull request
 }
-

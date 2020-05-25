@@ -19,4 +19,3 @@ TRUE if user is a member of organization
 \description{
 test if user is a member of an organization
 }
-

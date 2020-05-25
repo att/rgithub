@@ -17,4 +17,3 @@ the repository list
 \description{
 list repositories of a team
 }
-

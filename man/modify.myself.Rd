@@ -18,4 +18,3 @@ Updated information about the user
 \description{
 Change information about the current user
 }
-

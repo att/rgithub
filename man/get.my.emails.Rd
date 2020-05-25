@@ -15,4 +15,3 @@ A list of emails
 \description{
 Get the list of emails of the current user
 }
-

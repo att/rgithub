@@ -17,4 +17,3 @@ none
 \description{
 delete a gist
 }
-

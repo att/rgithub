@@ -21,4 +21,3 @@ the list of statuses
 \description{
 get statuses for a ref in a repo
 }
-

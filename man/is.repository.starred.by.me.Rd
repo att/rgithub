@@ -19,4 +19,3 @@ TRUE if current user starred repo
 \description{
 check if repository is starred by current user
 }
-

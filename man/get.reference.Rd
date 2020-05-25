@@ -21,4 +21,3 @@ the reference
 \description{
 get a git reference
 }
-

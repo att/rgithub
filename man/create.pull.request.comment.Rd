@@ -4,8 +4,13 @@
 \alias{create.pull.request.comment}
 \title{Create a comment on a pull request}
 \usage{
-create.pull.request.comment(owner, repo, pull.id, content,
-  ctx = get.github.context())
+create.pull.request.comment(
+  owner,
+  repo,
+  pull.id,
+  content,
+  ctx = get.github.context()
+)
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -24,4 +29,3 @@ the comment
 \description{
 Create a comment on a pull request
 }
-

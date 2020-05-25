@@ -21,4 +21,3 @@ the list of issues
 \description{
 List all issues for a repo
 }
-

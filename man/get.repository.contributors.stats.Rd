@@ -19,4 +19,3 @@ list of repo contributors stats
 \description{
 get stats on repository contributors
 }
-

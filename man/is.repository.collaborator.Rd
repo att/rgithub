@@ -21,4 +21,3 @@ TRUE if user is a collaborator in the repo
 \description{
 test if a given user is a collaborator of a repo
 }
-

@@ -23,4 +23,3 @@ the file
 \description{
 Get the contents of a file
 }
-

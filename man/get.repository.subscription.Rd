@@ -19,4 +19,3 @@ subscription info
 \description{
 get repository subscription info
 }
-

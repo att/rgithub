@@ -17,4 +17,3 @@ the list of public members
 \description{
 list public members of organization
 }
-

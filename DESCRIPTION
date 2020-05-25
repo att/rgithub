@@ -13,4 +13,4 @@ Imports:
     jsonlite
 Suggests:
     testthat
-RoxygenNote: 5.0.1
+RoxygenNote: 7.1.0

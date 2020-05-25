@@ -17,4 +17,3 @@ the response object
 \description{
 checks to see if the current user is subscribed to a thread.
 }
-

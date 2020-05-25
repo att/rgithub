@@ -19,4 +19,3 @@ the comment
 \description{
 Create gist comment
 }
-

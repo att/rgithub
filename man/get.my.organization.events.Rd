@@ -19,4 +19,3 @@ the list of events
 \description{
 list events from the authenticated user organization
 }
-

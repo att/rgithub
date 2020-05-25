@@ -21,4 +21,3 @@ the list of events for the network of repositories
 \description{
 list events for a network of repositories
 }
-

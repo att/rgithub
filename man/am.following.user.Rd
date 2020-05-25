@@ -17,4 +17,3 @@ TRUE or FALSE
 \description{
 Test whether current user is following given user
 }
-

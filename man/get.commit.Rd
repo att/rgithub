@@ -21,4 +21,3 @@ the commit
 \description{
 get a commit
 }
-

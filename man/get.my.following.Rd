@@ -15,4 +15,3 @@ the list of followers
 \description{
 List who is following the current user
 }
-

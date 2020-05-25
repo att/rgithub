@@ -19,4 +19,3 @@ none
 \description{
 delete user from an organization
 }
-

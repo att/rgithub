@@ -19,4 +19,3 @@ TRUE if user is member of team
 \description{
 test if user is a member of team
 }
-

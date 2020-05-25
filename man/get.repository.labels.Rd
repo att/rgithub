@@ -19,4 +19,3 @@ The list of labels
 \description{
 List all labels for a repository
 }
-

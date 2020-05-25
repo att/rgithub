@@ -23,4 +23,3 @@ Search the Github API.
 search.code("octokit in:file extension:gemspec -repo:octokit/octokit.rb", sort="indexed")
 }
 }
-

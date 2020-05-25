@@ -17,4 +17,3 @@ the list of issues
 \description{
 List all issues across owned and member repositories for the authenticated user:
 }
-

@@ -4,8 +4,12 @@
 \alias{get.all.repository.issues.comments}
 \title{Get list of comments for an issue}
 \usage{
-get.all.repository.issues.comments(owner, repo, ...,
-  ctx = get.github.context())
+get.all.repository.issues.comments(
+  owner,
+  repo,
+  ...,
+  ctx = get.github.context()
+)
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -22,4 +26,3 @@ the list of comments
 \description{
 Get list of comments for an issue
 }
-

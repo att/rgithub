@@ -23,4 +23,3 @@ the list of statuses
 \description{
 create status for a ref in a repo
 }
-

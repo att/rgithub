@@ -19,4 +19,3 @@ team information
 \description{
 edit a team in an organization
 }
-

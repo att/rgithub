@@ -15,4 +15,3 @@ the list of gists
 \description{
 list the current user's gists
 }
-
