@@ -21,4 +21,3 @@ The event list
 \description{
 List events for an issue
 }
-

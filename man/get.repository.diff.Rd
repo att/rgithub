@@ -23,4 +23,3 @@ the commit
 \description{
 return a diff between two commits
 }
-

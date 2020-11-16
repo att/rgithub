@@ -21,4 +21,3 @@ The given label
 \description{
 get a specific label for a repository
 }
-

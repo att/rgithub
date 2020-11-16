@@ -19,4 +19,3 @@ none
 \description{
 remove member from team
 }
-

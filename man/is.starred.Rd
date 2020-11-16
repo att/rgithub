@@ -17,4 +17,3 @@ TRUE if gist is starred
 \description{
 test if gist is starred
 }
-

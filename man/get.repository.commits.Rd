@@ -21,4 +21,3 @@ list of commits
 \description{
 get commits from a repo
 }
-

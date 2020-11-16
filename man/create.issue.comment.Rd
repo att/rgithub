@@ -4,8 +4,13 @@
 \alias{create.issue.comment}
 \title{Create issue comment}
 \usage{
-create.issue.comment(owner, repo, issue.number, content,
-  ctx = get.github.context())
+create.issue.comment(
+  owner,
+  repo,
+  issue.number,
+  content,
+  ctx = get.github.context()
+)
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -24,4 +29,3 @@ the comment
 \description{
 Create issue comment
 }
-

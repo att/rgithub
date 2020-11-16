@@ -21,4 +21,3 @@ the resulting merge commit
 \description{
 perform a merge.
 }
-

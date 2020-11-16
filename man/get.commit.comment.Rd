@@ -21,4 +21,3 @@ the comment
 \description{
 get a single commit comment
 }
-

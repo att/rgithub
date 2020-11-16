@@ -19,4 +19,3 @@ list of teams
 \description{
 get list of teams participating in the repository
 }
-

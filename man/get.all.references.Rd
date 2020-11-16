@@ -4,8 +4,12 @@
 \alias{get.all.references}
 \title{get all references (or subreferences)}
 \usage{
-get.all.references(owner, repo, subnamespace = NULL,
-  ctx = get.github.context())
+get.all.references(
+  owner,
+  repo,
+  subnamespace = NULL,
+  ctx = get.github.context()
+)
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -22,4 +26,3 @@ the list of references
 \description{
 get all references (or subreferences)
 }
-

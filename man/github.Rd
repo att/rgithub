@@ -3,7 +3,6 @@
 \docType{package}
 \name{github}
 \alias{github}
-\alias{github-package}
 \title{github-package: use the Github API from R}
 \description{
 This package wraps the Github web service API so you can make R
@@ -13,12 +12,11 @@ This package wraps the Github web service API so you can make R
 \examples{
 \dontrun{get.user.repositories("cscheid")}
 }
-\author{
-Carlos Scheidegger
-}
 \seealso{
 \code{jsonlite}
 }
+\author{
+Carlos Scheidegger
+}
 \keyword{github-package}
 \keyword{package}
-

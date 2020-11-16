@@ -19,4 +19,3 @@ the list of public events the user has received
 \description{
 list public events that a user has received
 }
-

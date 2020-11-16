@@ -4,8 +4,13 @@
 \alias{get.issue.comment}
 \title{Get specific comment}
 \usage{
-get.issue.comment(owner, repo, issue.number, comment.number,
-  ctx = get.github.context())
+get.issue.comment(
+  owner,
+  repo,
+  issue.number,
+  comment.number,
+  ctx = get.github.context()
+)
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -24,4 +29,3 @@ the comment
 \description{
 Get specific comment
 }
-

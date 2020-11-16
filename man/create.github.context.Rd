@@ -4,9 +4,16 @@
 \alias{create.github.context}
 \title{Create a github context object.}
 \usage{
-create.github.context(api_url = "https://api.github.com", client_id = NULL,
-  client_secret = NULL, access_token = NULL, personal_token = NULL,
-  max_etags = 10000, verbose = FALSE)
+create.github.context(
+  api_url = "https://api.github.com",
+  client_id = NULL,
+  client_secret = NULL,
+  access_token = NULL,
+  personal_token = NULL,
+  max_etags = 10000,
+  verbose = FALSE,
+  use_query_token = TRUE
+)
 }
 \arguments{
 \item{api_url}{the base URL}
@@ -22,6 +29,8 @@ create.github.context(api_url = "https://api.github.com", client_id = NULL,
 \item{max_etags}{the maximum number of entries to cache in the context}
 
 \item{verbose}{if TRUE, passes verbose() to httr configuration}
+
+\item{use_query_token}{if TRUE, passes the access token in query string, otherwise in header}
 }
 \value{
 a github context object that is used in every github API call
@@ -43,4 +52,3 @@ If any of the github API functions are called without a context, this
 context is used instead. (if no context has been created, an unauthenticated
 context will be created)
 }
-

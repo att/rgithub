@@ -21,4 +21,3 @@ the milestone list
 \description{
 List milestones for a repository
 }
-

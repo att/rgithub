@@ -4,8 +4,7 @@
 \alias{delete.issue.label}
 \title{Delete an issue from a label}
 \usage{
-delete.issue.label(owner, repo, issue.number, name,
-  ctx = get.github.context())
+delete.issue.label(owner, repo, issue.number, name, ctx = get.github.context())
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -24,4 +23,3 @@ None
 \description{
 Delete an issue from a label
 }
-

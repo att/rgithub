@@ -21,4 +21,3 @@ none
 \description{
 delete a reference
 }
-

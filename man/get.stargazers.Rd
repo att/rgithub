@@ -19,4 +19,3 @@ user list
 \description{
 list people who starred a repo
 }
-

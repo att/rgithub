@@ -21,4 +21,3 @@ the list of notifications
 \description{
 list the current user's notifications for a given repo
 }
-

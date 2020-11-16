@@ -21,4 +21,3 @@ None
 \description{
 Delete all issue labels
 }
-

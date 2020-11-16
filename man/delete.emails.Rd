@@ -17,4 +17,3 @@ Nothing
 \description{
 Delete emails from the account
 }
-

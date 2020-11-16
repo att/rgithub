@@ -17,4 +17,3 @@ the list of followers
 \description{
 Get the list of followers for a given user
 }
-

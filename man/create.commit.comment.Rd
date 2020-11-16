@@ -23,4 +23,3 @@ the comment
 \description{
 create a comment for a given commit in a repository
 }
-

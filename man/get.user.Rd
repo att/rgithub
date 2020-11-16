@@ -17,4 +17,3 @@ Information about the user
 \description{
 Get information on some user
 }
-

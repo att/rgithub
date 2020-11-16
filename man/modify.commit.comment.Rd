@@ -23,4 +23,3 @@ the comment
 \description{
 update a single commit comment
 }
-

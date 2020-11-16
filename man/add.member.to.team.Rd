@@ -19,4 +19,3 @@ TRUE if user is member of team
 \description{
 add member to team
 }
-

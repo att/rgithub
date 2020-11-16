@@ -4,9 +4,15 @@
 \alias{interactive.login}
 \title{Obtain a github context interactively}
 \usage{
-interactive.login(client_id = NULL, client_secret = NULL, scopes = NULL,
-  base_url = "https://github.com", api_url = "https://api.github.com",
-  max_etags = 10000, verbose = FALSE)
+interactive.login(
+  client_id = NULL,
+  client_secret = NULL,
+  scopes = NULL,
+  base_url = "https://github.com",
+  api_url = "https://api.github.com",
+  max_etags = 10000,
+  verbose = FALSE
+)
 }
 \arguments{
 \item{client_id}{the github client ID}
@@ -42,4 +48,3 @@ or the feature might need to be removed.
 
 Refer to \url{http://developer.github.com/guides/basics-of-authentication/}
 }
-

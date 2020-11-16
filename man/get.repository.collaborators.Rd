@@ -19,4 +19,3 @@ list of collaborators
 \description{
 get list of collaborators of a repo
 }
-

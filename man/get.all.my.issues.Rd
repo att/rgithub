@@ -17,4 +17,3 @@ the list of issues
 \description{
 get all issues across all the authenticated user's visible repositories including owned repositories, member repositories, and organization repositories
 }
-

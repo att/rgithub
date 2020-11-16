@@ -17,4 +17,3 @@ none
 \description{
 Stop following a given user
 }
-

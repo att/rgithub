@@ -19,4 +19,3 @@ repo list
 \description{
 list repos starred by user
 }
-

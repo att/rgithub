@@ -17,4 +17,3 @@ A list of users
 \description{
 Get all github users
 }
-

@@ -17,4 +17,3 @@ None
 \description{
 mark my notifications as read
 }
-

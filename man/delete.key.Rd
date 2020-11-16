@@ -17,4 +17,3 @@ None
 \description{
 Delete a public key with some id
 }
-

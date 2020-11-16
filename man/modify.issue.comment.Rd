@@ -4,8 +4,14 @@
 \alias{modify.issue.comment}
 \title{Modify issue comment}
 \usage{
-modify.issue.comment(owner, repo, issue.number, comment.number, content,
-  ctx = get.github.context())
+modify.issue.comment(
+  owner,
+  repo,
+  issue.number,
+  comment.number,
+  content,
+  ctx = get.github.context()
+)
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -26,4 +32,3 @@ the comment
 \description{
 Modify issue comment
 }
-

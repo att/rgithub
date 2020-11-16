@@ -21,4 +21,3 @@ the combined status
 \description{
 get combined status for a ref in a repo
 }
-

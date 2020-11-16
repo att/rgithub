@@ -20,4 +20,3 @@ the list of events the user has performed. If user is the authenticated user,
 \description{
 list events that a user has performed
 }
-

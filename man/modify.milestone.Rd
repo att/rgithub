@@ -4,8 +4,13 @@
 \alias{modify.milestone}
 \title{Edit milestone}
 \usage{
-modify.milestone(owner, repo, milestone.number, content,
-  ctx = get.github.context())
+modify.milestone(
+  owner,
+  repo,
+  milestone.number,
+  content,
+  ctx = get.github.context()
+)
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -24,4 +29,3 @@ the created milestone
 \description{
 Edit milestone
 }
-

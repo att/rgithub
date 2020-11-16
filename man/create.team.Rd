@@ -19,4 +19,3 @@ team information
 \description{
 create a team in an organization
 }
-

@@ -19,4 +19,3 @@ list of repo contributors
 \description{
 get list of repository contributors
 }
-

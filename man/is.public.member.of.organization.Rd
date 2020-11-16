@@ -19,4 +19,3 @@ TRUE if user is a public member of organization
 \description{
 test if user is a public member of organization
 }
-

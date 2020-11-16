@@ -17,4 +17,3 @@ the list of organizations
 \description{
 List all public organizations for an unauthenticated user. Lists private and public organizations for authenticated users.
 }
-

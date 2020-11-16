@@ -21,4 +21,3 @@ TRUE if pull request has been merged
 \description{
 test if pull request has been merged
 }
-

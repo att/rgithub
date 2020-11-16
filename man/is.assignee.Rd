@@ -21,4 +21,3 @@ TRUE if user is assignee
 \description{
 Test if user is assignee in a repo
 }
-

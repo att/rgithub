@@ -17,4 +17,3 @@ repo list
 \description{
 list repos starred by current user
 }
-

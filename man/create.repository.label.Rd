@@ -21,4 +21,3 @@ The given label
 \description{
 create a label for a repository
 }
-

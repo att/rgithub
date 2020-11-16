@@ -19,4 +19,3 @@ list of branches
 \description{
 get list of repository branches
 }
-

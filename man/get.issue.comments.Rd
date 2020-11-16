@@ -21,4 +21,3 @@ the list of comments
 \description{
 Get list of comments for an issue
 }
-

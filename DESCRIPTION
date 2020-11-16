@@ -1,7 +1,7 @@
 Package: github
 Type: Package
 Title: github API
-Version: 0.9.11
+Version: 0.9.12
 Author: Carlos Scheidegger <cscheid@research.att.com>
 Maintainer: Simon Urbanek <urbanek@R-project.org>
 Description: Provides access to the Github v3 API
@@ -13,4 +13,4 @@ Imports:
     jsonlite
 Suggests:
     testthat
-RoxygenNote: 5.0.1
+RoxygenNote: 7.1.0

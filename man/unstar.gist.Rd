@@ -17,4 +17,3 @@ none
 \description{
 unstar a gist
 }
-

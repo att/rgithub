@@ -17,4 +17,3 @@ the public key
 \description{
 Get a public key with some id
 }
-

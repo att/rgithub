@@ -19,4 +19,3 @@ subscription info
 \description{
 clear repository subscription info
 }
-

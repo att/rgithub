@@ -19,4 +19,3 @@ None
 \description{
 conceal user membership in an organization
 }
-

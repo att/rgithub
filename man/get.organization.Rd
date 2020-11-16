@@ -17,4 +17,3 @@ the organization information
 \description{
 Get an organization
 }
-

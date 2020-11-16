@@ -19,4 +19,3 @@ the updated public key
 \description{
 Update a public key with some id
 }
-

@@ -21,4 +21,3 @@ the list of issues
 \description{
 Create issue
 }
-

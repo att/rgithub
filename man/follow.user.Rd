@@ -17,4 +17,3 @@ none
 \description{
 Start following a given user
 }
-

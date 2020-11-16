@@ -19,4 +19,3 @@ list of languages
 \description{
 get list of languages used in the repository, as estimated by github
 }
-

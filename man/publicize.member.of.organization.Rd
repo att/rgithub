@@ -19,4 +19,3 @@ None
 \description{
 publicize user membership in an organization
 }
-

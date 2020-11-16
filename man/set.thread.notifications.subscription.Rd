@@ -19,4 +19,3 @@ the response object
 \description{
 subscribes current user to a thread, or ignore thread. Subscribing to a thread is unnecessary if the user is already subscribed to the repository. Ignoring a thread will mute all future notifications (until you comment or get at-mentioned).
 }
-

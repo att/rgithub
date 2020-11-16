@@ -15,4 +15,3 @@ list of keys
 \description{
 Get public keys for the current user
 }
-

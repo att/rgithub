@@ -21,4 +21,3 @@ information about the branch
 \description{
 get specific repository branch
 }
-

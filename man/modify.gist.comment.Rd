@@ -21,4 +21,3 @@ the comment
 \description{
 Edit gist comment
 }
-

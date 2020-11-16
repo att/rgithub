@@ -19,4 +19,3 @@ the new gist
 \description{
 Edit a gist
 }
-

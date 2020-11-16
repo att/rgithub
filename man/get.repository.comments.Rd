@@ -19,4 +19,3 @@ list of comments
 \description{
 get all commit comments for a repository
 }
-

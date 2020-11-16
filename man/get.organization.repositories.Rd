@@ -19,4 +19,3 @@ list of repositories
 \description{
 get list of repositories of given organization
 }
-

@@ -23,4 +23,3 @@ the list of issues
 \description{
 Modify issue
 }
-

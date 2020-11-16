@@ -15,4 +15,3 @@ the list of organizations
 \description{
 List all organizations for the current user.
 }
-

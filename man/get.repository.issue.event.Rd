@@ -4,8 +4,12 @@
 \alias{get.repository.issue.event}
 \title{List a single event for a repository issue}
 \usage{
-get.repository.issue.event(owner, repo, event.number,
-  ctx = get.github.context())
+get.repository.issue.event(
+  owner,
+  repo,
+  event.number,
+  ctx = get.github.context()
+)
 }
 \arguments{
 \item{owner}{the repo owner}
@@ -22,4 +26,3 @@ The chosen event
 \description{
 List a single event for a repository issue
 }
-
